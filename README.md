@@ -1,6 +1,4 @@
-# ai-customer-feedback-automation
-AI-powered customer feedback classification and automated triage using n8n, Google Gemini, Airtable, Slack, and Gmail.
-# 🤖 AI-Powered Customer Feedback Automation
+   # 🤖 AI-Powered Customer Feedback Automation
 
 An end-to-end AI automation workflow that analyzes free-form customer feedback, classifies it using Google Gemini, stores structured insights in Airtable, notifies the relevant team through Slack, and automatically sends a confirmation email to the customer.
 
